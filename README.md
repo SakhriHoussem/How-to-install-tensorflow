@@ -51,7 +51,7 @@ Download Version 9 here: [CUDA Toolkit 9.0](https://developer.nvidia.com/cuda-90
 
 ##### use:
 
-[gpu-testing.py](gpu-testing.py)
+[GPU Testing](gpu-testing.py)
 
 ##### or:
 
