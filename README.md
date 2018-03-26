@@ -38,7 +38,7 @@ Download Version 9 here: [CUDA Toolkit 9.0](https://developer.nvidia.com/cuda-90
 
 ### Set Your Environment Variables:
 
-1. Click <kbd>Windows</kbd> + <kbd>R</kbd>  Then type `sysdm.cpl` and go to `advanced` and select `Environmental Variables`   
+1. Click <kbd>![Windows](https://image.ibb.co/gPeijn/windows_button.png)</kbd> + <kbd>R</kbd>  Then type `sysdm.cpl` and go to `advanced` and select `Environmental Variables`   
 
 2. Click on the `Path` in `system variable` and select `edit`      
 
