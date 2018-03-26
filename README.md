@@ -7,8 +7,8 @@ Download Version 3.6 64bit here: [Windows x86-64 executable installer](https://w
 
 ### Install tensorflow-gpu:
 
-````shell
-  cd C:\Users\<username>\AppData\Local\Programs\Python\Python36\Scripts
+````cmd
+  cd C:\Users\%USERNAME%\AppData\Local\Programs\Python\Python36\Scripts
 ````
 if you  tensorflow already installed so uninstalled :
 ````shell
