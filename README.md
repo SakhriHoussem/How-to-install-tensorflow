@@ -47,7 +47,7 @@ Download Version 9 here: [CUDA Toolkit 9.0](https://developer.nvidia.com/cuda-90
   `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin`        
   `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp`       
   
-![Environment Variables](https://preview.ibb.co/cvagvS/Capture.png")
+![Environment Variables](https://preview.ibb.co/jcYvN7/Capture.png)
 
 ### Test your Installation
 
