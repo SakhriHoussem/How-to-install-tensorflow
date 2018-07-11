@@ -1,4 +1,4 @@
-# How-to-install-Tensorflow-GPU
+# How to install Tensorflow GPU
 ## How to install Tensorflow-GPU 1.6 on Windows
 
 ### Install Python:
